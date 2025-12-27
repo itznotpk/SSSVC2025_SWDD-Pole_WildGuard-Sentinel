@@ -431,14 +431,6 @@ def update_stock(num_elephants: int):
 
 ---
 
-## License
-
-[Add appropriate license information]
-
-## Contributors
-
-[Add contributor information]
-
 ## References
 
 - [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)
